@@ -1,4 +1,5 @@
 # Selected topics on Julia
+A selection of Julia-related topics guided by the needs in optimization.
 
 Slides:
 
