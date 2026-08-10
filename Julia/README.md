@@ -1,7 +1,6 @@
 # Selected topics on Julia
-A selection of topics on Julia
 
-Slides (last update: July2026):
+Slides:
 
 -   Welcome: welcome to Julia programming language  
 -   [Topic 01:](topics/Topic01.REPL.pdf) REPL  
