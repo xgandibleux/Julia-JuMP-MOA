@@ -3,5 +3,5 @@ Modeling, solving, and analyzing multi-objective mathematical optimization probl
 
 Slides:
 
--   Welcome: welcome to JuMP and MultiObjectiveAlgorithms (MOA)  
+-   Intro: welcome to JuMP and MultiObjectiveAlgorithms (MOA)  
 -   [Topic 01:](Topic01.MOA.pdf) Multi-objective optimisation models with JuMP and MOA

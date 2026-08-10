@@ -2,7 +2,7 @@
 
 Slides:
 
--   Welcome: welcome to Julia programming language  
+-   Intro: welcome to Julia programming language  
 -   [Topic 01:](topics/Topic01.REPL.pdf) REPL  
 -   [Topic 02:](topics/Topic02.packages.pdf) packages and package's manager  
 -   [Topic 03:](topics/Topic03.try.pdf) working with Julia  
