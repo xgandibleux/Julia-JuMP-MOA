@@ -8,6 +8,13 @@ Content:
 -   [JuMP and MOA:](MOA/README.md) Multi-Objective Optimization with JuMP and MOA
 
 ----
+Homepages: 
+
+-   [Julia:](https://julialang.org) The Julia Programming Language
+-   [JuMP:](https://jump.dev/JuMP.jl/stable/) The documentation for JuMP
+-   [MOA:](https://github.com/jump-dev/MultiObjectiveAlgorithms.jl) The metasolver for Multi-Objective Optimization
+
+----
 
 Steps to follow to install on your computer:
 
