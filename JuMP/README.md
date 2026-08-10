@@ -3,6 +3,7 @@ A selection of topics on JuMP for LP, ILP, and MILP problems
 
 Slides:
 
--   intro: welcome to JuMP  
--   [Topic 01:](Topic01.JumpPart1.pdf) Explicit optimization models with JuMP
--   [Topic 02:](Topic02.JumpPart2.pdf) Implicit and advanced optimization models with JuMP
+-   [Intro:](Topic00.introJuMP.pdf) Welcome to JuMP  
+-   [Topic 01:](Topic01.GettingStartedJuMP.pdf) Getting started with JuMP
+-   [Topic 02:](Topic02.ExplicitJuMP.pdf) Explicit optimization models with JuMP
+-   [Topic 03:](Topic03.ImplicitJuMP.pdf) Implicit and advanced optimization models with JuMP
