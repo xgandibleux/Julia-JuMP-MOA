@@ -17,3 +17,12 @@ Slides:
 -   [Topic 11:](topics/Topic11.searchSort.pdf) Search and sort  
 -   [Topic 12:](topics/Topic12.plotting.pdf) plotting  
 -   [Topic 13:](topics/Topic13.compositeStru.pdf) Data structures (composite)
+
+----
+
+Steps to follow to install on your computer:
+
+- julia: [https://julialang.org/downloads/](https://julialang.org/downloads/)
+- Visual Studio Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+A Wi-Fi access will also be required.
